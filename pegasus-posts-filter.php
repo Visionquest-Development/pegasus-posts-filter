@@ -21,7 +21,7 @@ Domain Path: /languages
 	
 	
 	function pegasus_posts_assets() {
-		wp_enqueue_script( 'tuts/js', trailingslashit( plugin_dir_url( __FILE__ ) ) . 'js/matchHeight.js', ['jquery'], null, true );
+		//wp_enqueue_script( 'tuts/js', trailingslashit( plugin_dir_url( __FILE__ ) ) . 'js/matchHeight.js', ['jquery'], null, true );
 		wp_localize_script( 
 			'tuts/js', 
 			'pegasus', 
