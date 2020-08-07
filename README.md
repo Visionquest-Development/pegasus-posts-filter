@@ -1,5 +1,7 @@
 # Pegasus-posts-filter
- 
+
+https://www.bobz.co/filter-wordpress-posts-by-custom-taxonomy-term-with-ajax-and-pagination/
+
 ## Usage
 How to use in your WordPress site<br>
 `[ajax_filter_posts]`<br>
