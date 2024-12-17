@@ -1,0 +1,16 @@
+{
+  "rows": [
+    {
+      "section_name": "Posts Filter Settings",
+      "rows": [
+        {
+          "name": "Per Page",
+          "attribute": "per_page",
+          "options": "Number",
+          "description": "Number of posts to show per page",
+          "example": "per_page=\"8\""
+        }
+      ]
+    }
+  ]
+}
