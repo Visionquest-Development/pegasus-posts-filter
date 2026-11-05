@@ -792,13 +792,13 @@
       "ssh_fingerprint": "SHA256:9CViQYZDJDlDZ5vqX2AOOqQoZHje5wmxjGgpbp6xfbA"
     },
     "hfhs-staging": {
-      "domain": "visionquestdev.com/hfhs",
+      "domain": "visionquestdev.com/hfhsga",
       "environment": "staging",
       "enabled": true,
       "ssh_host": "ssh.visionquestdev.com",
       "ssh_user": "u137-u0edzwblljc1",
       "ssh_port": 18765,
-      "wp_content": "/home/u137-u0edzwblljc1/www/visionquestdev.com/public_html/hfhs/wp-content",
+      "wp_content": "/home/u137-u0edzwblljc1/www/visionquestdev.com/public_html/hfhsga/wp-content",
       "child_branch": "hfhsga_theme",
       "plugins": [
         "pegasus-accordion",
